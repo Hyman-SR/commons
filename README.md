@@ -12,7 +12,7 @@ members: Mr.zhang
 ### 2.1 注解系列 [/annotations]
 
 ----
-#### 2.1.1 日志注解 [/annotations/logs]
+#### 2.1.1 日志注解 [/annotations/@HymanLog]
 **作用：** *主要目的是打印出目标方法执行耗费的时间，可以帮助开发更准确的排查问题*
 
 **使用方法：** *在项目启动类上加入注解：@EnableHymanLog 即可*
